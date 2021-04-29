@@ -6,6 +6,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 **Introduction**
 
 This Calculator Application is console based application in C programming language. The project allows the users to perform various mathematical operations using this calculator applications such as Addition, subtraction, division, multiplication, power of the number, factorial of the number. Firstly there will be a menu driven user interface where users selects which operation they want to perform.
