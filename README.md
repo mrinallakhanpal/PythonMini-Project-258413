@@ -34,12 +34,11 @@ This Calculator Application is console based application in C programming langua
 
 FUNCTION NAME       |   Description 
 ---------------	    | ----------------------------  
-FUNCADDITION()	    |   Addition of 2 numbers
-FUNCSUBTRACTION()   |   Subtraction of 2 numbers
-FUNCDIVISION()	    |   Division of 2 numbers
-FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
-FUNCPOWER()	        |   Power of a numbers
-FUNCFACTORIAL()     |   Factorial of a numbers
+addition()    	    |   Addition of 2 numbers
+subtraction()       |   Subtraction of 2 numbers
+multiplication()	  |   Multiplication of 2 numbers
+average()           |   Average of 2 numbers
+
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -48,12 +47,10 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 
 Use         |Description
 ----------- |--------------------------------------------------------------------------
-ADD         |Input the two numbers in funcaddition() for addition function		       
-SUBTRACT    |Input the two numbers in funcsubtraction() for subtraction function	   
-MULTIPLY    |Input the two numbers in funcmultiplication() for multiplicationfunction
-DIVIDE      |Input the two numbers in funcdivision() for division function           
-POWER       |Input a number to find the power of that number                         
-FACTORIAL   |Input a number to find the factorial.                                   
+ADD         |Input the two numbers in addition() for addition function		       
+SUBTRACT    |Input the two numbers in subtraction() for subtraction function	   
+MULTIPLY    |Input the two numbers in multiplication() for multiplicationfunction
+AVERAGE     |Input the two numbers in average() for average function                                        
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -63,9 +60,7 @@ FACTORIAL   |Input a number to find the factorial.
 
 Folder                |      Description
 -----------------     |    ---------------------------------------------------
-1_Requirements	      |     Detailed Requirements of the project
-2_Design	            |     Componental and Structural diagram of the project
-3_Architecture        |     Structural Diagram of the project
+
 3_Implementation	    |     Code, Unity Tests and DoxyFile
 4_ImagesAndVideos     |     Screenshot of the project	    
 
