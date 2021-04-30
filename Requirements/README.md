@@ -1,4 +1,17 @@
 # L&T Technology Services STEPin-MiniProject 258413
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Code Grade](<https://www.code-inspector.com/project/21411/status/svg>)](<https://frontend.code-inspector.com/project/21411/dashboard>)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                             
+**Calculator**
+                             
+![alt text](https://github.com/mrinallakhanpal/PythonMini-Project-258413/blob/6af124c31b13e577ea8b668b36aa6a13846110ff/Images/canyouusecalculatorongmat.jpg)
+
+
 
 **Introduction**
 
@@ -21,12 +34,11 @@ This Calculator Application is console based application in C programming langua
 
 FUNCTION NAME       |   Description 
 ---------------	    | ----------------------------  
-FUNCADDITION()	    |   Addition of 2 numbers
-FUNCSUBTRACTION()   |   Subtraction of 2 numbers
-FUNCDIVISION()	    |   Division of 2 numbers
-FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
-FUNCPOWER()	        |   Power of a numbers
-FUNCFACTORIAL()     |   Factorial of a numbers
+addition()    	    |   Addition of 2 numbers
+subtraction()       |   Subtraction of 2 numbers
+multiplication()	  |   Multiplication of 2 numbers
+average()           |   Average of 2 numbers
+
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -35,12 +47,10 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 
 Use         |Description
 ----------- |--------------------------------------------------------------------------
-ADD         |Input the two numbers in funcaddition() for addition function		       
-SUBTRACT    |Input the two numbers in funcsubtraction() for subtraction function	   
-MULTIPLY    |Input the two numbers in funcmultiplication() for multiplicationfunction
-DIVIDE      |Input the two numbers in funcdivision() for division function           
-POWER       |Input a number to find the power of that number                         
-FACTORIAL   |Input a number to find the factorial.                                   
+ADD         |Input the two numbers in addition() for addition function		       
+SUBTRACT    |Input the two numbers in subtraction() for subtraction function	   
+MULTIPLY    |Input the two numbers in multiplication() for multiplicationfunction
+AVERAGE     |Input the two numbers in average() for average function                                        
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,13 +58,11 @@ FACTORIAL   |Input a number to find the factorial.
 
 **Folder Structure**
 
+
 Folder                |      Description
 -----------------     |    ---------------------------------------------------
-1_Requirements	      |     Detailed Requirements of the project
-2_Design	            |     Componental and Structural diagram of the project
-3_Architecture        |     Structural Diagram of the project
-3_Implementation	    |     Code, Unity Tests and DoxyFile
-4_ImagesAndVideos     |     Screenshot of the project	    
+Implementation	      |     Code, Unity Tests and DoxyFile
+Images                |     Screenshot of the project	    
 
 
 
@@ -65,5 +73,4 @@ Folder                |      Description
 
 
 ![swotcalc](https://user-images.githubusercontent.com/53489451/114977397-39b6b600-9ea5-11eb-93d5-1f1aa027f7f2.jpg)
-
 
