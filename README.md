@@ -58,11 +58,11 @@ AVERAGE     |Input the two numbers in average() for average function
 
 **Folder Structure**
 
+
 Folder                |      Description
 -----------------     |    ---------------------------------------------------
-
-3_Implementation	    |     Code, Unity Tests and DoxyFile
-4_ImagesAndVideos     |     Screenshot of the project	    
+Implementation	      |     Code, Unity Tests and DoxyFile
+Images                |     Screenshot of the project	    
 
 
 
