@@ -37,7 +37,7 @@ FUNCTION NAME       |   Description
 addition()    	    |   Addition of 2 numbers
 subtraction()       |   Subtraction of 2 numbers
 multiplication()	  |   Multiplication of 2 numbers
-average()           |   Average of 2 numbers
+average()           |   Average of numbers
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ Use         |Description
 ADD         |Input the two numbers in addition() for addition function		       
 SUBTRACT    |Input the two numbers in subtraction() for subtraction function	   
 MULTIPLY    |Input the two numbers in multiplication() for multiplicationfunction
-AVERAGE     |Input the two numbers in average() for average function                                        
+AVERAGE     |Input the numbers in average() for average function                                        
 
 --------------------------------------------------------------------------------------------------------------------------------
 
